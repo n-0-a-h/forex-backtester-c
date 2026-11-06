@@ -1,0 +1,23 @@
+# Compiled output
+*.o
+*.a
+*.so
+*.out
+build/
+bin/
+
+# Your programs (add names as you create them)
+backtest
+hello
+
+# Data (download separately)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor and OS files
+.vscode/
+.DS_Store
