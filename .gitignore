@@ -21,3 +21,6 @@ __pycache__/
 # Editor and OS files
 .vscode/
 .DS_Store
+
+# folders
+DOCUMENTATION/
